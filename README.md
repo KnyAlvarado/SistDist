@@ -1,0 +1,2 @@
+# SistDist
+Sistemas distribuidos 
